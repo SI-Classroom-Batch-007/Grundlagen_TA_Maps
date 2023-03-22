@@ -11,7 +11,7 @@ fun main() {
     val telefonNummerListe: Map<String, Int>
 
     // TODO: Vervollstaendige die Map
-    val stringToInt
+    val emailListe
 
     // TODO: Gebe hier alle drei Maps aus
 

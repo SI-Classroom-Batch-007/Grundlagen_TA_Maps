@@ -42,20 +42,19 @@ Ein Paar besteht dabei aus einem Schlüssel (englisch: key) und einem Wert (engl
 <summary> <b> Aufgabe 2 - Map selber erstellen </b> </summary>
 
 In dieser Aufgabe üben wir das Erstellen von Maps.  
-Wenn ihr Hilfe braucht, schaut euch an, wie eine Map bzw. 
-eine MutableMap in Aufgabe1 erstellt wurde.  
+Wenn ihr Hilfe braucht, schaut euch in Aufgabe1 an, wie eine Map bzw. 
+eine MutableMap erstellt wurde.  
  
 - Vervollständige zuerst die map `telefonNummerListe`, sodass sie zu Beginn diese Paare hat:
     - "Peter" --> 2487503
     - "Bernd" --> 3465081
     - "Ludolf" --> 3985292
 
-- Vervollständige nun die map mit dem Namen `stringToInt`, sodass der Schlüssel 
-vom Typ String und der Wert vom Typ Int ist. Zusätzlich soll die Map zu Beginn diese Paare haben:
-  -  "Mara" -> 3468789
-  -  "Tina" -> 9834620
-  -  "Lorelei" -> 4698302
-
+- Vervollständige nun die map mit dem Namen `emailListe`, sodass der Schlüssel 
+vom Typ String und der Wert vom Typ String ist. Zusätzlich soll die Map zu Beginn diese Paare haben:
+  -  "Peter" -> "peter123@gmail.com"
+  -  "Sabrina" -> "sabi-cool@gmx.de"
+  -  "Tobi" -> "titantobi@gamer.net"
 
 
 **Modul für die Aufgabe:** *Aufgabe2*  
