@@ -84,7 +84,7 @@ b) Erstelle eine MutableMap über Personennamen und ihren Lieblingstieren.
 - Die Map soll initial mit folgenden Paaren gefüllt sein:  
   "Berta" -> "Hunde"  
   "Frank" -> "Katzen"  
-  "Luis" -> "Mäuse"  
+  "Luis" -> "Hunde"  
   "Sylvia" -> "Eulen"
 
 c) Erstelle eine Map über Hausnummern und der Hausfarbe.
