@@ -15,6 +15,7 @@ Sprache und steht für Abbildungen. In einer Abbildung zeigt etwas
 
 - Löse die Aufgaben programmatisch (D.h. schreibe Code, um auf die Lösung zu kommen).
 - Achte auf einen sauberen Quellcode, insbesondere Einrückungen sind wichtig!
+- Achte bei Strings genau auf die Schreibweise, man kann hier sehr leicht Tippfehler machen!
 - Wenn ihr Hilfe braucht, könnt ihr euch am Code aus der Aufgabe 1 orientieren
 oder jederzeit die Tutoren fragen.
 - Viel Erfolg und natürlich viel Spaß!
@@ -278,17 +279,42 @@ Schlüssel "Frank" und Wert "Mäuse". Weise den Rückgabewert einer Variable zu 
 diese Variable in der Konsole aus.
   - Was wird ausgegeben? Und wieso?
 
-
-
-Bonusfrage - Wiederholung:
-
-Wie wir wissen, können wir die Paare einer Map nicht verändern.
-Da sie vom Typ Map und nicht vom Typ MutableMap ist.
-- Was hast du letzte Woche gelernt, das du tun kannst, um eine veränderbare Kopie 
-einer Map zu erhalten?
-
 **Modul für die Aufgabe:** *Aufgabe7*  
 **Datei für die Aufgabe:** *7_PaareLöschen.kt*
 </details>
+
+---
+
+<details>
+<summary> <b> Aufgabe 8 - Schlüssel und Werte </b> </summary>
+
+a)
+
+Gegeben ist die folgende Map, die Fahrzeuge zu ihrer Geschwindigkeit in Km/h mappt:
+
+    "Auto" -> 120.5
+    "Flugzeug" -> 755.2
+    "Fahrrad" -> 22.0
+    "Tretroller" -> 15.7
+
+- Erstelle eine passende Map, die initial die genannten Paare besitzt.
+- Weise alle Schlüssel einer Variable zu und gib die Variable in der Konsole aus.
+- Weise alle Werte einer Variable zu und gib die Variable in der Konsole aus.
+- Stimmen die ausgegebenen Schlüssel und Werte mit denen der Map überein?
+- Wende die entsprechende Konvertierungsfunktion an, um die Schlüssel und Werte als Listen abzuspeichern.
+Du kannst dafür gerne die oben-erstellten Variablen anpassen.
+
+
+b) 
+
+- Benutze eine Listenfunktion, um die höchste Geschwindigkeit aus den Werten abzulesen. 
+Speichere dir diesen Wert in einer Variable ab.
+- Verwende eine Listenfunktion, um den Index von dieser Geschwindigkeit in der Werteliste zu finden. 
+- Setze den gefundenen Index ein, um das entsprechende Fahrzeug auf der Konsole auszugeben. 
+
+**Modul für die Aufgabe:** *Aufgabe8*  
+**Datei für die Aufgabe:** *8_SchluesselUndWerte.kt*
+</details>
+
 
 ---
