@@ -7,12 +7,12 @@ fun main() {
         "Sylvia" to "Eulen",
         "Hans" to "Fau",
     )
-    // TODO: Schreibe hier deinen Code für Aufgabe 5a)
+    // TODO: Schreibe hier deinen Code zu Aufgabe 5a)
 
 
 
     /*
-        TODO: Schreibe hier deine Antwort für Aufgabe 5b)
+        TODO: Schreibe hier deine Antwort zu Aufgabe 5b)
 
      */
     val number = 2.0
@@ -22,7 +22,7 @@ fun main() {
         2 to number * number,
         3 to number * number * number,
     )
-    // TODO: Schreibe hier deinen Code für Aufgabe 5c)
+    // TODO: Schreibe hier deinen Code zu Aufgabe 5c)
 
 
 

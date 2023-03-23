@@ -7,7 +7,7 @@ fun main() {
         "Sylvia" to "Eulen",
         "Hans" to "Fau",
     )
-    //TODO: Schreibe hier deinen Code
+    //TODO: Schreibe hier deinen Code:
 
 
 

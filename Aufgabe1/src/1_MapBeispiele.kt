@@ -11,7 +11,7 @@ fun main() {
     println("1. $personBirthdayMap")
 
     // Wenn wir jetzt wissen wollen, wann Frank Geburtstag hat,
-    // müssen wir nur der map den Schlüssel (Person) geben und die map gibt (get) uns den Wert (Geburtstag) zurück
+    // müssen wir der map den Schlüssel (Person) geben und die map gibt (get) uns den Wert (Geburtstag) zurück
     val franksBirthday: String? = personBirthdayMap.get("Frank")
     println("2. Franks Geburtstag ist am $franksBirthday")
 

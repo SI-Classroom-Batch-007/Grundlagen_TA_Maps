@@ -1,5 +1,5 @@
 fun main() {
-    // Hier ist eine Map die eine Person zu (to) einer Telefonnummer gemappt (Abbildet, zeigt).
+    // Hier ist eine Map die eine Person zu (to) einer Telefonnummer mappt (abbildet, zeigt).
     // Der Schlüssel hat dabei den Typ String und der Wert hat den Typ Int.
     val personPhoneExampleMap: Map<String, Int> = mapOf(
         "Ferdinand" to 16520335,

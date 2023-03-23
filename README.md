@@ -55,7 +55,7 @@ eine MutableMap erstellt wurde.
 ```
 
 - Vervollständige nun die map mit dem Namen `eMailMap`, sodass der Schlüssel 
-vom Typ String und der Wert vom Typ String ist. Zusätzlich soll die Map zu Beginn diese Paare haben:
+vom Typ String und der Wert vom Typ String ist. Zusätzlich soll die Map zu Beginn folgende Paare haben:
 ```
 "Peter" -> "peter123@gmail.com"
 "Sabrina" -> "sabi-cool@gmx.de"
