@@ -47,14 +47,14 @@ In dieser Aufgabe üben wir das Erstellen von Maps.
 Wenn ihr Hilfe braucht, schaut euch in Aufgabe1 an, wie eine Map bzw. 
 eine MutableMap erstellt wurde.  
  
-- Vervollständige zuerst die map `telefonNummerListe`, sodass sie zu Beginn diese Paare hat:
+- Vervollständige zuerst die map `phonenumberMap`, sodass sie zu Beginn diese Paare hat:
 ```
 "Peter" -> 2487503
 "Bernd" -> 3465081
 "Ludolf" -> 3985292
 ```
 
-- Vervollständige nun die map mit dem Namen `emailListe`, sodass der Schlüssel 
+- Vervollständige nun die map mit dem Namen `eMailMap`, sodass der Schlüssel 
 vom Typ String und der Wert vom Typ String ist. Zusätzlich soll die Map zu Beginn diese Paare haben:
 ```
 "Peter" -> "peter123@gmail.com"
@@ -267,6 +267,7 @@ Gegeben ist die folgende Map, die Fahrzeuge zu ihrer Geschwindigkeit in Km/h map
     "Flugzeug" -> 755.2
     "Fahrrad" -> 22.0
     "Tretroller" -> 15.7
+    "LKW" to 89.9
 
 - Erstelle eine passende Map, die initial die genannten Paare besitzt.
 - Weise alle Schlüssel einer Variable zu und gib die Variable in der Konsole aus.

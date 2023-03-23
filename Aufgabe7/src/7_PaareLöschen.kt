@@ -1,6 +1,6 @@
 fun main() {
     
-    var lieblingsTiere = mutableMapOf<String, String>(
+    var favouritePetsMap = mutableMapOf<String, String>(
         "Berta" to "Hunde",
         "Frank" to "Katzen",
         "Luis" to "Mäuse",
@@ -10,6 +10,6 @@ fun main() {
     //TODO: Schreibe hier deinen Code
 
 
-    print(lieblingsTiere.remove("Berta"))
+
 
 }
