@@ -16,6 +16,8 @@ Sprache und steht für Abbildungen. In einer Abbildung zeigt etwas
 - Löse die Aufgaben programmatisch (D.h. schreibe Code, um auf die Lösung zu kommen).
 - Achte auf einen sauberen Quellcode, insbesondere Einrückungen sind wichtig!
 - Achte bei Strings genau auf die Schreibweise, man kann hier sehr leicht Tippfehler machen!
+- Bevor ihr zur nächsten Aufgabe weiter geht, testet euren Code! Er sollte nicht nur compilieren und ausführen, sondern auch das richtige Ergebnis ergeben.
+
 - Wenn ihr Hilfe braucht, könnt ihr euch am Code aus der Aufgabe 1 orientieren
 oder jederzeit die Tutoren fragen.
 - Viel Erfolg und natürlich viel Spaß!
